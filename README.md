@@ -1,4 +1,4 @@
 # UI-UX_design
 this is my UI and UX designs 
 <br>
-author - Harsh Shailesh Kadam
+author - Harsh   Kadam
